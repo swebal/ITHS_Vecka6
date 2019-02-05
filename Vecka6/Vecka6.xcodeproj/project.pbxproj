@@ -13,6 +13,7 @@
 		28FDAA6222099331005FE326 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28FDAA6122099331005FE326 /* Assets.xcassets */; };
 		28FDAA6522099331005FE326 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28FDAA6322099331005FE326 /* LaunchScreen.storyboard */; };
 		28FDAA6822099331005FE326 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 28FDAA6722099331005FE326 /* main.m */; };
+		28FDAA702209D6E8005FE326 /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28FDAA6F2209D6E8005FE326 /* ImageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		28FDAA6422099331005FE326 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28FDAA6622099331005FE326 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28FDAA6722099331005FE326 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		28FDAA6E2209D6E8005FE326 /* ImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageViewController.h; sourceTree = "<group>"; };
+		28FDAA6F2209D6E8005FE326 /* ImageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				28FDAA5B2209932A005FE326 /* ViewController.h */,
 				28FDAA5C2209932A005FE326 /* ViewController.m */,
 				28FDAA5E2209932A005FE326 /* Main.storyboard */,
+				28FDAA6E2209D6E8005FE326 /* ImageViewController.h */,
+				28FDAA6F2209D6E8005FE326 /* ImageViewController.m */,
 				28FDAA6122099331005FE326 /* Assets.xcassets */,
 				28FDAA6322099331005FE326 /* LaunchScreen.storyboard */,
 				28FDAA6622099331005FE326 /* Info.plist */,
@@ -143,6 +148,7 @@
 			files = (
 				28FDAA5D2209932A005FE326 /* ViewController.m in Sources */,
 				28FDAA6822099331005FE326 /* main.m in Sources */,
+				28FDAA702209D6E8005FE326 /* ImageViewController.m in Sources */,
 				28FDAA5A2209932A005FE326 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
